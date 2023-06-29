@@ -1,7 +1,7 @@
 import re
 
-import spotify.py
-from spotify.oauth2 import SpotifyClientCredentials
+import Spotify.py
+from Spotify.oauth2 import SpotifyClientCredentials
 from youtubesearchpython.__future__ import VideosSearch
 
 import config
